@@ -1,0 +1,72 @@
+FONTLOG for Sans Guilt Wafer Wafer
+-------------------
+This file provides detailed information on the Sans Guilt Wafer Wafer font software.
+This information should be distributed along with the Sans Guilt Wafer Wafer fonts
+and any derivative works.
+
+Basic Font Information
+--------------------------
+Copyright (c) 2012, OSP (http://ospublish.constantvzw.org)
+
+The Sans Guilt Wafer font is the result of an wireframe style effect on Sans Guilt MB. 
+See:
+http://ospublish.constantvzw.org/type/not-gillty
+
+
+Information for Contributors
+------------------------------
+Copyright (C) 2012 OSP 
+http://ospublish.constantvzw.org.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+
+
+ChangeLog
+----------
+(This should list both major and minor changes, most recent first.)
+
+Acknowledgements
+-------------------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: Antoine Begon
+E: ant.begon@gmail.com
+W: begon.antoine.free.fr 
+
+N: Sophie Demay
+E: sophie.demay@network.rca.ac.uk
+
+N: Élise Duverdier
+E: eliseduverdier@gmail.com
+D: OSP new intern (oct 12 -> jan 13)
+
+N: Deniz Johns 
+E: deniz.johns@network.rca.ac.uk
+
+N: Alexandre Leray
+E: alexandre@stdin.fr 
+
+N: Loiseau Ludivine
+E: hello@ludi.be
+
+N: Pierre Marchand
+E: pierremarc07@gmail.com 
+
+N: Afonso Martins
+E: afonsomartins@gmail.com  
+
+N: Sébastien Sanfilippo
+E: tinomatic@gmail.com
+
+N: Stéhanie Vilayphiou
+E: stephanie@stdin.fr  
+
+
+
+
+
+
+
